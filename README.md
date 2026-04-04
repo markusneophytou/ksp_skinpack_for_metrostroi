@@ -1,0 +1,12 @@
+--================================--
+-- CopyRight (C) KatzeStroiProject | Skin pack for 81-760E "Chura"
+-- Made By : Markus Neophytou (justaneonkatze), ArseniyEvans, Lanix
+-- Contains next liveries:
+--		Novozadristaevo (pre-restyle)
+--		Novozadristaevo (restyle)
+--		Gradient
+--		Emiral (Emerald)
+--		Purpur
+--		TNT
+-- More coming soon. also for all trains probably
+--================================--
