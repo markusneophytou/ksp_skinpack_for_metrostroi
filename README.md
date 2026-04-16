@@ -11,7 +11,7 @@
 ## 📦 Included files in this rep
 
 
-  **ksp_skinpack_for_churka1_7.zip
+**>> ksp_skinpack_for_churka1_7.zip**
 * Novozadristaevo red livery *(pre-restyling)*
 * Novozadristaevo red livery *(post-restyling)*
 * Novozadristaevo Transport logos
@@ -23,7 +23,7 @@
 * PurPur livery
 * TNT — now in metro livery
 
-  **ksp_skinpack_for_nomernoy.zip
+**>> ksp_skinpack_for_nomernoy.zip**
 
 * Emiral (Emerald) livery  
 ---
