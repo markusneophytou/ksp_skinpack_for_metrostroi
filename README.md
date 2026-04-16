@@ -3,6 +3,7 @@
 ## Version 1.7
 
 **YOU CAN SUPPORT US ON BOOSTY (link in bio)**
+
 **ВЫ МОЖЕТЕ НАС ПОДДЕРЖАТЬ НА BOOSTY В МОЕЙ ШАПКЕ ПРОФИЛЯ**
 
 ---
