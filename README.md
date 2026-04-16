@@ -8,8 +8,10 @@
 
 ---
 
-## 📦 Included in this version
+## 📦 Included files in this rep
 
+
+  **ksp_skinpack_for_churka1_7.zip
 * Novozadristaevo red livery *(pre-restyling)*
 * Novozadristaevo red livery *(post-restyling)*
 * Novozadristaevo Transport logos
@@ -21,6 +23,9 @@
 * PurPur livery
 * TNT — now in metro livery
 
+  **ksp_skinpack_for_nomernoy.zip
+
+* Emiral (Emerald) livery  
 ---
 
 More skins will be added in future updates.
@@ -33,34 +38,3 @@ More skins will be added in future updates.
 
 ---
 
-# Скинпак Katzestroi Project
-
-## Версия 1.7
-
-**ВЫ МОЖЕТЕ НАС ПОДДЕРЖАТЬ НА BOOSTY В МОЕЙ ШАПКЕ ПРОФИЛЯ**
-**YOU CAN SUPPORT US ON BOOSTY (link in bio)**
-
----
-
-## 📦 В этой версии
-
-* Красная окраска Новозадристаевского метро *(до рестайлинга)*
-* Красная окраска Новозадристаевского метро *(после рестайлинга)*
-* Логотипы Новозадристаевского транспорта
-* Логотипы Новозадристаевского метрополитена
-* Логотип Katzestroiproject
-* Логотип RX | MP
-* Окраска Градиент *(Рестайлинг)*
-* Окраска Емираль (Emerald)
-* Окраска ПурПур
-* Окраска ТНТ — теперь в метро
-
----
-
-В будущих обновлениях будет добавлено больше скинов.
-
-### 👤 Авторы
-
-* [Mark Neophytou](https://steamcommunity.com/id/justaneonkatze/)
-* [ArseniyEvans](https://steamcommunity.com/profiles/76561199565619407/)
-* [Lanix (Окрас ТНТ)](https://steamcommunity.com/id/lanix444)
